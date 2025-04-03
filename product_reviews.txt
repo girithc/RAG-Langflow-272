@@ -1,0 +1,3500 @@
+Type: Product Review
+Timestamp: 2023-10-09 07:39:21
+Product ID: PROD380
+User ID: USER9702
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-14 15:21:40
+Product ID: PROD784
+User ID: USER9834
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-29 04:17:25
+Product ID: PROD159
+User ID: USER7012
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-15 04:05:40
+Product ID: PROD788
+User ID: USER7046
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-10 20:18:37
+Product ID: PROD359
+User ID: USER7206
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-27 19:54:30
+Product ID: PROD991
+User ID: USER8872
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-02 04:38:37
+Product ID: PROD256
+User ID: USER5682
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-30 10:18:42
+Product ID: PROD618
+User ID: USER1075
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-28 19:04:55
+Product ID: PROD879
+User ID: USER1525
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-15 17:28:05
+Product ID: PROD186
+User ID: USER8163
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-03 05:37:40
+Product ID: PROD407
+User ID: USER5491
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-20 06:00:18
+Product ID: PROD228
+User ID: USER8661
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-21 19:28:09
+Product ID: PROD918
+User ID: USER6782
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-18 12:53:33
+Product ID: PROD384
+User ID: USER1031
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-25 14:24:42
+Product ID: PROD485
+User ID: USER7119
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-08 20:50:10
+Product ID: PROD135
+User ID: USER5265
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-16 16:42:28
+Product ID: PROD805
+User ID: USER2110
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-28 22:21:39
+Product ID: PROD395
+User ID: USER7849
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-16 02:37:19
+Product ID: PROD722
+User ID: USER2183
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-21 11:23:41
+Product ID: PROD584
+User ID: USER2927
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-30 18:43:06
+Product ID: PROD673
+User ID: USER7795
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-08 11:58:45
+Product ID: PROD213
+User ID: USER9547
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-12 21:29:24
+Product ID: PROD275
+User ID: USER7926
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-19 01:27:29
+Product ID: PROD946
+User ID: USER9605
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-12 11:08:52
+Product ID: PROD563
+User ID: USER9837
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-13 11:25:08
+Product ID: PROD769
+User ID: USER6906
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-16 12:22:56
+Product ID: PROD236
+User ID: USER9575
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-09 09:12:02
+Product ID: PROD854
+User ID: USER2673
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-01 20:16:48
+Product ID: PROD138
+User ID: USER4080
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-18 23:30:38
+Product ID: PROD825
+User ID: USER3146
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-10 22:54:53
+Product ID: PROD568
+User ID: USER1875
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-22 07:26:54
+Product ID: PROD591
+User ID: USER5469
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-17 04:19:50
+Product ID: PROD292
+User ID: USER4083
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-21 10:48:55
+Product ID: PROD354
+User ID: USER5599
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-26 16:23:59
+Product ID: PROD770
+User ID: USER1636
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-28 09:39:33
+Product ID: PROD611
+User ID: USER9073
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-21 23:18:28
+Product ID: PROD437
+User ID: USER4810
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-08 16:07:28
+Product ID: PROD716
+User ID: USER4584
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-23 13:35:47
+Product ID: PROD486
+User ID: USER9913
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-29 13:45:10
+Product ID: PROD979
+User ID: USER2132
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-09 10:18:28
+Product ID: PROD305
+User ID: USER3866
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-17 03:47:16
+Product ID: PROD141
+User ID: USER8400
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-23 03:18:26
+Product ID: PROD172
+User ID: USER3444
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-08 01:27:54
+Product ID: PROD366
+User ID: USER6898
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-09 21:46:36
+Product ID: PROD585
+User ID: USER6821
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-28 22:30:57
+Product ID: PROD455
+User ID: USER6708
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-22 19:35:53
+Product ID: PROD869
+User ID: USER3232
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-16 14:26:02
+Product ID: PROD682
+User ID: USER1863
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-23 16:15:43
+Product ID: PROD715
+User ID: USER5916
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-25 06:12:27
+Product ID: PROD873
+User ID: USER6927
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-15 08:17:32
+Product ID: PROD188
+User ID: USER1375
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-05 06:24:16
+Product ID: PROD986
+User ID: USER4618
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-12 07:12:03
+Product ID: PROD506
+User ID: USER5540
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-08 15:23:17
+Product ID: PROD348
+User ID: USER6374
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-04 10:17:25
+Product ID: PROD488
+User ID: USER6554
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-14 09:09:56
+Product ID: PROD860
+User ID: USER4670
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-10 02:11:36
+Product ID: PROD699
+User ID: USER9417
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-12 13:55:26
+Product ID: PROD200
+User ID: USER7708
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-27 06:21:51
+Product ID: PROD705
+User ID: USER8759
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-10 07:06:09
+Product ID: PROD534
+User ID: USER2028
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-04 22:11:35
+Product ID: PROD511
+User ID: USER3169
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-03 03:29:20
+Product ID: PROD609
+User ID: USER4311
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-07 23:26:28
+Product ID: PROD758
+User ID: USER9212
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-13 18:09:28
+Product ID: PROD312
+User ID: USER8207
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-15 16:27:25
+Product ID: PROD238
+User ID: USER2583
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-13 18:51:46
+Product ID: PROD466
+User ID: USER9317
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-19 06:23:12
+Product ID: PROD793
+User ID: USER1315
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-09 02:24:28
+Product ID: PROD939
+User ID: USER7988
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-25 17:54:28
+Product ID: PROD932
+User ID: USER6927
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-14 08:20:33
+Product ID: PROD984
+User ID: USER7795
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-06 20:06:21
+Product ID: PROD799
+User ID: USER6255
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-18 18:06:49
+Product ID: PROD711
+User ID: USER9962
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-03 13:13:04
+Product ID: PROD292
+User ID: USER9101
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-04 08:59:28
+Product ID: PROD747
+User ID: USER3587
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-11 13:09:08
+Product ID: PROD408
+User ID: USER9068
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-23 05:54:55
+Product ID: PROD200
+User ID: USER7290
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-18 04:28:34
+Product ID: PROD340
+User ID: USER1421
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-03 02:08:58
+Product ID: PROD987
+User ID: USER8012
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-10 13:38:08
+Product ID: PROD777
+User ID: USER7713
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-09 06:07:39
+Product ID: PROD453
+User ID: USER6478
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-12 16:36:35
+Product ID: PROD620
+User ID: USER8503
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-29 21:07:51
+Product ID: PROD675
+User ID: USER1871
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-27 19:55:46
+Product ID: PROD264
+User ID: USER6472
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-23 12:45:52
+Product ID: PROD340
+User ID: USER1702
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-10 10:54:11
+Product ID: PROD668
+User ID: USER6793
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-03 17:32:41
+Product ID: PROD658
+User ID: USER2388
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-04 12:28:11
+Product ID: PROD466
+User ID: USER3880
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-04 04:39:32
+Product ID: PROD761
+User ID: USER8784
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-06 16:12:17
+Product ID: PROD300
+User ID: USER5172
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-09 00:07:32
+Product ID: PROD328
+User ID: USER3833
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-04 23:04:27
+Product ID: PROD243
+User ID: USER1965
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-28 02:11:02
+Product ID: PROD620
+User ID: USER2946
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-02 21:17:14
+Product ID: PROD467
+User ID: USER2245
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-13 01:19:32
+Product ID: PROD289
+User ID: USER6518
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-28 19:24:35
+Product ID: PROD885
+User ID: USER5006
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-16 01:55:29
+Product ID: PROD934
+User ID: USER4736
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-15 20:16:14
+Product ID: PROD883
+User ID: USER7527
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-16 07:42:35
+Product ID: PROD710
+User ID: USER9458
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-04 09:25:34
+Product ID: PROD721
+User ID: USER2801
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-27 03:06:25
+Product ID: PROD407
+User ID: USER2737
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-22 15:57:08
+Product ID: PROD458
+User ID: USER8499
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-20 02:01:56
+Product ID: PROD618
+User ID: USER8084
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-18 21:38:15
+Product ID: PROD696
+User ID: USER8791
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-26 10:51:22
+Product ID: PROD625
+User ID: USER2378
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-06 08:57:01
+Product ID: PROD926
+User ID: USER3394
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-14 16:16:46
+Product ID: PROD676
+User ID: USER5375
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-31 10:31:54
+Product ID: PROD333
+User ID: USER6901
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-26 01:19:39
+Product ID: PROD109
+User ID: USER6381
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-06 14:07:39
+Product ID: PROD184
+User ID: USER2913
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-31 16:16:23
+Product ID: PROD718
+User ID: USER2300
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-27 01:15:30
+Product ID: PROD833
+User ID: USER1624
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-26 04:00:05
+Product ID: PROD874
+User ID: USER9454
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-25 23:11:27
+Product ID: PROD863
+User ID: USER1992
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-27 01:08:23
+Product ID: PROD985
+User ID: USER9994
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-22 14:29:19
+Product ID: PROD321
+User ID: USER6249
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-19 16:01:08
+Product ID: PROD511
+User ID: USER7026
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-15 02:51:00
+Product ID: PROD361
+User ID: USER9590
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-04 05:37:39
+Product ID: PROD203
+User ID: USER9231
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-07 21:04:07
+Product ID: PROD998
+User ID: USER5381
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-23 13:40:30
+Product ID: PROD451
+User ID: USER5623
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-08 01:59:32
+Product ID: PROD414
+User ID: USER6808
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-17 11:38:31
+Product ID: PROD375
+User ID: USER6780
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-22 00:53:29
+Product ID: PROD315
+User ID: USER3081
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-01 17:05:35
+Product ID: PROD601
+User ID: USER9227
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-25 12:19:41
+Product ID: PROD545
+User ID: USER4766
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-27 13:48:24
+Product ID: PROD215
+User ID: USER2324
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-22 03:12:34
+Product ID: PROD828
+User ID: USER7337
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-20 12:41:23
+Product ID: PROD897
+User ID: USER9562
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-09 17:07:23
+Product ID: PROD217
+User ID: USER9308
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-15 02:10:59
+Product ID: PROD845
+User ID: USER7363
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-10 03:51:34
+Product ID: PROD864
+User ID: USER9981
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-18 09:28:01
+Product ID: PROD408
+User ID: USER1735
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-02 17:52:42
+Product ID: PROD957
+User ID: USER6656
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-24 06:40:20
+Product ID: PROD837
+User ID: USER9921
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-27 22:50:47
+Product ID: PROD591
+User ID: USER4392
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-08 10:58:10
+Product ID: PROD690
+User ID: USER2204
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-23 20:07:40
+Product ID: PROD653
+User ID: USER9314
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-19 20:41:34
+Product ID: PROD809
+User ID: USER7235
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-23 17:33:17
+Product ID: PROD535
+User ID: USER1063
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-14 18:11:08
+Product ID: PROD461
+User ID: USER3410
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-04 19:30:46
+Product ID: PROD676
+User ID: USER8826
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-21 17:27:33
+Product ID: PROD359
+User ID: USER2192
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-22 12:32:27
+Product ID: PROD413
+User ID: USER4281
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-06 01:41:34
+Product ID: PROD804
+User ID: USER7368
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-04 02:16:30
+Product ID: PROD474
+User ID: USER6766
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-28 02:33:53
+Product ID: PROD498
+User ID: USER3483
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-26 20:33:24
+Product ID: PROD586
+User ID: USER6923
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-04 01:09:23
+Product ID: PROD352
+User ID: USER1252
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-13 13:17:21
+Product ID: PROD705
+User ID: USER4037
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-22 21:29:21
+Product ID: PROD673
+User ID: USER3563
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-19 08:29:03
+Product ID: PROD950
+User ID: USER8836
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-05 07:21:58
+Product ID: PROD387
+User ID: USER1835
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-07 18:54:43
+Product ID: PROD244
+User ID: USER5193
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-25 17:33:01
+Product ID: PROD635
+User ID: USER6054
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-05 18:34:00
+Product ID: PROD736
+User ID: USER4704
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-24 09:06:13
+Product ID: PROD869
+User ID: USER7497
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-26 02:17:49
+Product ID: PROD807
+User ID: USER3109
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-17 10:32:55
+Product ID: PROD243
+User ID: USER4107
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-09 21:24:34
+Product ID: PROD813
+User ID: USER2354
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-08 07:48:08
+Product ID: PROD606
+User ID: USER3797
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-02 08:43:21
+Product ID: PROD942
+User ID: USER5969
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-09 23:31:41
+Product ID: PROD460
+User ID: USER2045
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-27 19:58:58
+Product ID: PROD319
+User ID: USER2015
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-11 06:11:41
+Product ID: PROD751
+User ID: USER6236
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-04 12:17:48
+Product ID: PROD411
+User ID: USER4196
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-10 21:12:57
+Product ID: PROD876
+User ID: USER1009
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-10 06:47:42
+Product ID: PROD621
+User ID: USER7243
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-28 21:54:55
+Product ID: PROD883
+User ID: USER5321
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-24 04:32:47
+Product ID: PROD353
+User ID: USER5199
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-27 15:49:53
+Product ID: PROD290
+User ID: USER6040
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-08 15:45:27
+Product ID: PROD603
+User ID: USER4596
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-25 13:52:25
+Product ID: PROD603
+User ID: USER8851
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-02 16:08:14
+Product ID: PROD763
+User ID: USER7573
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-12 04:01:51
+Product ID: PROD697
+User ID: USER5568
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-05 21:13:14
+Product ID: PROD467
+User ID: USER6267
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-26 05:36:30
+Product ID: PROD831
+User ID: USER3247
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-29 21:21:29
+Product ID: PROD751
+User ID: USER1529
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-01 03:22:57
+Product ID: PROD851
+User ID: USER7827
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-03 18:20:23
+Product ID: PROD478
+User ID: USER4017
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-05 19:42:01
+Product ID: PROD603
+User ID: USER9089
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-06 11:49:39
+Product ID: PROD868
+User ID: USER8089
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-14 15:09:02
+Product ID: PROD714
+User ID: USER1228
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-28 21:27:48
+Product ID: PROD251
+User ID: USER8596
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-16 03:03:45
+Product ID: PROD430
+User ID: USER3205
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-03 06:36:59
+Product ID: PROD857
+User ID: USER9415
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-23 17:25:50
+Product ID: PROD797
+User ID: USER1708
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-25 16:07:55
+Product ID: PROD248
+User ID: USER7080
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-21 13:00:49
+Product ID: PROD763
+User ID: USER5970
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-02 00:04:59
+Product ID: PROD308
+User ID: USER8104
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-15 09:32:49
+Product ID: PROD287
+User ID: USER2847
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-07 14:58:40
+Product ID: PROD467
+User ID: USER6611
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-13 14:20:20
+Product ID: PROD334
+User ID: USER3575
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-02 16:56:23
+Product ID: PROD833
+User ID: USER9015
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-25 01:22:14
+Product ID: PROD677
+User ID: USER4083
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-17 23:31:41
+Product ID: PROD192
+User ID: USER1791
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-18 20:57:04
+Product ID: PROD796
+User ID: USER5933
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-20 18:45:14
+Product ID: PROD588
+User ID: USER6175
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-27 08:50:36
+Product ID: PROD491
+User ID: USER9754
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-02 15:23:15
+Product ID: PROD638
+User ID: USER2826
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-11 03:25:58
+Product ID: PROD933
+User ID: USER9348
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-23 16:30:26
+Product ID: PROD487
+User ID: USER1734
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-01 11:00:55
+Product ID: PROD152
+User ID: USER4497
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-18 02:46:55
+Product ID: PROD107
+User ID: USER5050
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-17 12:44:44
+Product ID: PROD146
+User ID: USER5099
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-31 06:30:14
+Product ID: PROD653
+User ID: USER5037
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-21 12:17:05
+Product ID: PROD524
+User ID: USER2946
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-09 22:04:53
+Product ID: PROD913
+User ID: USER6847
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-18 00:19:42
+Product ID: PROD543
+User ID: USER3672
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-14 05:50:31
+Product ID: PROD815
+User ID: USER1020
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-21 11:38:06
+Product ID: PROD744
+User ID: USER8667
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-12 21:03:10
+Product ID: PROD252
+User ID: USER4022
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-22 05:38:19
+Product ID: PROD713
+User ID: USER9987
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-07 02:51:25
+Product ID: PROD996
+User ID: USER4846
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-09 01:16:22
+Product ID: PROD362
+User ID: USER9661
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-08 19:34:18
+Product ID: PROD736
+User ID: USER1484
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-19 10:37:45
+Product ID: PROD656
+User ID: USER2728
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-07 20:09:27
+Product ID: PROD194
+User ID: USER2973
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-01 11:24:31
+Product ID: PROD709
+User ID: USER4374
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-23 23:22:19
+Product ID: PROD458
+User ID: USER1303
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-23 23:27:05
+Product ID: PROD274
+User ID: USER7936
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-12 07:24:39
+Product ID: PROD279
+User ID: USER9875
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-03 08:42:14
+Product ID: PROD168
+User ID: USER1077
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-21 15:03:03
+Product ID: PROD270
+User ID: USER9783
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-07 22:31:28
+Product ID: PROD205
+User ID: USER9182
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-19 21:54:37
+Product ID: PROD624
+User ID: USER4836
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-05 21:25:40
+Product ID: PROD149
+User ID: USER4906
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-19 00:28:20
+Product ID: PROD306
+User ID: USER6327
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-17 09:57:53
+Product ID: PROD452
+User ID: USER6789
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-15 20:17:10
+Product ID: PROD660
+User ID: USER2906
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-21 07:03:02
+Product ID: PROD204
+User ID: USER7118
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-28 22:49:30
+Product ID: PROD819
+User ID: USER5879
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-04 21:02:14
+Product ID: PROD795
+User ID: USER8409
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-08 21:28:23
+Product ID: PROD713
+User ID: USER8732
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-24 22:28:48
+Product ID: PROD351
+User ID: USER1714
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-10 18:12:02
+Product ID: PROD281
+User ID: USER9377
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-18 15:53:22
+Product ID: PROD962
+User ID: USER3989
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-30 06:05:44
+Product ID: PROD451
+User ID: USER8283
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-03 23:36:59
+Product ID: PROD713
+User ID: USER5483
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-21 01:17:40
+Product ID: PROD984
+User ID: USER8842
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-21 23:04:31
+Product ID: PROD976
+User ID: USER4089
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-07 20:08:12
+Product ID: PROD450
+User ID: USER8283
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-26 09:17:00
+Product ID: PROD831
+User ID: USER1652
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-12 23:58:51
+Product ID: PROD152
+User ID: USER8124
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-21 19:54:27
+Product ID: PROD576
+User ID: USER9381
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-08 09:42:59
+Product ID: PROD169
+User ID: USER9860
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-31 11:08:20
+Product ID: PROD411
+User ID: USER9960
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-06 04:25:09
+Product ID: PROD329
+User ID: USER3364
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-11 03:13:07
+Product ID: PROD854
+User ID: USER2827
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-22 07:50:22
+Product ID: PROD705
+User ID: USER3695
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-14 04:58:00
+Product ID: PROD734
+User ID: USER4015
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-14 01:50:05
+Product ID: PROD795
+User ID: USER8848
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-09 04:35:27
+Product ID: PROD377
+User ID: USER9950
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-13 00:41:12
+Product ID: PROD259
+User ID: USER9468
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-08 19:54:04
+Product ID: PROD180
+User ID: USER1403
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-25 17:05:02
+Product ID: PROD535
+User ID: USER4295
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-25 18:23:36
+Product ID: PROD635
+User ID: USER9397
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-04 01:01:43
+Product ID: PROD681
+User ID: USER2141
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-16 19:49:15
+Product ID: PROD902
+User ID: USER2822
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-16 13:50:19
+Product ID: PROD180
+User ID: USER7246
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-23 03:42:14
+Product ID: PROD838
+User ID: USER1308
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-18 19:43:38
+Product ID: PROD483
+User ID: USER3900
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-12 01:18:31
+Product ID: PROD637
+User ID: USER3418
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-02 18:09:53
+Product ID: PROD494
+User ID: USER9923
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-29 15:41:59
+Product ID: PROD210
+User ID: USER1034
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-13 17:43:02
+Product ID: PROD115
+User ID: USER3638
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-02 20:39:53
+Product ID: PROD221
+User ID: USER3813
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-12 20:43:59
+Product ID: PROD100
+User ID: USER1223
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-30 15:49:16
+Product ID: PROD338
+User ID: USER7536
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-06 17:07:38
+Product ID: PROD288
+User ID: USER1670
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-03 15:47:08
+Product ID: PROD149
+User ID: USER7972
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-10 09:58:50
+Product ID: PROD798
+User ID: USER9540
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-12 18:00:03
+Product ID: PROD182
+User ID: USER8459
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-10 23:48:40
+Product ID: PROD738
+User ID: USER6868
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-06 06:37:15
+Product ID: PROD724
+User ID: USER9338
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-13 01:57:33
+Product ID: PROD256
+User ID: USER6215
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-07 17:14:57
+Product ID: PROD668
+User ID: USER6030
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-12 00:12:38
+Product ID: PROD719
+User ID: USER5924
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-30 12:33:12
+Product ID: PROD342
+User ID: USER2756
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-11 05:24:50
+Product ID: PROD961
+User ID: USER3346
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-18 19:34:39
+Product ID: PROD499
+User ID: USER5426
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-06 12:41:28
+Product ID: PROD378
+User ID: USER3299
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-03 03:34:19
+Product ID: PROD814
+User ID: USER1434
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-02 21:24:45
+Product ID: PROD417
+User ID: USER5527
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-17 21:12:55
+Product ID: PROD643
+User ID: USER2203
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-25 04:59:40
+Product ID: PROD235
+User ID: USER7260
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-09 17:20:44
+Product ID: PROD145
+User ID: USER3683
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-09 22:31:44
+Product ID: PROD399
+User ID: USER2551
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-12 05:21:16
+Product ID: PROD880
+User ID: USER7367
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-01 20:55:06
+Product ID: PROD346
+User ID: USER3721
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-06 18:42:07
+Product ID: PROD632
+User ID: USER5066
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-17 02:50:06
+Product ID: PROD229
+User ID: USER3482
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-16 14:50:55
+Product ID: PROD658
+User ID: USER5463
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-31 04:58:22
+Product ID: PROD454
+User ID: USER4610
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-01 00:02:45
+Product ID: PROD467
+User ID: USER3719
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-26 12:12:57
+Product ID: PROD295
+User ID: USER7639
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-15 05:47:58
+Product ID: PROD211
+User ID: USER8878
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-27 06:56:18
+Product ID: PROD600
+User ID: USER4907
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-28 07:41:40
+Product ID: PROD499
+User ID: USER6137
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-16 07:15:37
+Product ID: PROD908
+User ID: USER3651
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-10 11:05:54
+Product ID: PROD196
+User ID: USER6044
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-13 00:47:48
+Product ID: PROD602
+User ID: USER9913
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-24 23:02:14
+Product ID: PROD909
+User ID: USER9755
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-11 04:28:38
+Product ID: PROD820
+User ID: USER8862
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-17 03:00:37
+Product ID: PROD350
+User ID: USER2816
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-13 19:23:49
+Product ID: PROD736
+User ID: USER8964
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-23 03:09:41
+Product ID: PROD490
+User ID: USER3235
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-21 18:37:13
+Product ID: PROD591
+User ID: USER6735
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-14 12:40:48
+Product ID: PROD158
+User ID: USER3846
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-03 17:44:14
+Product ID: PROD415
+User ID: USER7562
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-14 06:29:43
+Product ID: PROD193
+User ID: USER2497
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-05 05:26:49
+Product ID: PROD119
+User ID: USER6354
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-22 14:17:56
+Product ID: PROD855
+User ID: USER8713
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-17 04:45:55
+Product ID: PROD100
+User ID: USER9939
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-18 13:57:38
+Product ID: PROD165
+User ID: USER5746
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-03 02:22:21
+Product ID: PROD707
+User ID: USER8276
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-30 15:10:03
+Product ID: PROD603
+User ID: USER6486
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-08 07:11:28
+Product ID: PROD459
+User ID: USER2505
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-28 01:49:44
+Product ID: PROD854
+User ID: USER2950
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-08 20:36:21
+Product ID: PROD280
+User ID: USER5191
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-17 11:42:42
+Product ID: PROD951
+User ID: USER1552
+Rating: 4
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-06 12:17:03
+Product ID: PROD311
+User ID: USER8043
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-06 22:12:33
+Product ID: PROD968
+User ID: USER5590
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-13 01:49:22
+Product ID: PROD669
+User ID: USER4889
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-01 11:08:35
+Product ID: PROD506
+User ID: USER7492
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-29 17:37:12
+Product ID: PROD453
+User ID: USER1723
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-09 09:06:52
+Product ID: PROD732
+User ID: USER3755
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-20 22:27:55
+Product ID: PROD791
+User ID: USER4388
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-26 00:22:12
+Product ID: PROD803
+User ID: USER1059
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-15 20:51:20
+Product ID: PROD214
+User ID: USER3807
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-20 11:30:36
+Product ID: PROD627
+User ID: USER6753
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-12 23:17:15
+Product ID: PROD657
+User ID: USER9602
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-02 23:09:46
+Product ID: PROD940
+User ID: USER6625
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-19 23:25:59
+Product ID: PROD375
+User ID: USER2354
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-16 06:19:42
+Product ID: PROD544
+User ID: USER7098
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-09 23:33:59
+Product ID: PROD275
+User ID: USER8224
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-11 08:35:00
+Product ID: PROD183
+User ID: USER3726
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-13 09:15:48
+Product ID: PROD584
+User ID: USER4509
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-21 13:43:33
+Product ID: PROD593
+User ID: USER6894
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-06 12:38:53
+Product ID: PROD778
+User ID: USER6612
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-19 19:11:52
+Product ID: PROD101
+User ID: USER7342
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-23 00:59:18
+Product ID: PROD879
+User ID: USER1435
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-13 15:08:43
+Product ID: PROD224
+User ID: USER2891
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-06 06:20:34
+Product ID: PROD750
+User ID: USER8753
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-12 16:40:57
+Product ID: PROD530
+User ID: USER2365
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-22 15:43:42
+Product ID: PROD890
+User ID: USER3247
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-03 09:06:11
+Product ID: PROD203
+User ID: USER7660
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-03 00:10:23
+Product ID: PROD494
+User ID: USER3456
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-27 12:43:53
+Product ID: PROD996
+User ID: USER6351
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-28 18:10:03
+Product ID: PROD317
+User ID: USER3598
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-26 13:13:31
+Product ID: PROD483
+User ID: USER2390
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-14 12:10:57
+Product ID: PROD998
+User ID: USER6983
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-08 05:11:05
+Product ID: PROD229
+User ID: USER8545
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-08 09:05:20
+Product ID: PROD260
+User ID: USER5302
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-21 09:43:52
+Product ID: PROD740
+User ID: USER1034
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-07 02:32:20
+Product ID: PROD419
+User ID: USER9824
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-30 05:11:43
+Product ID: PROD989
+User ID: USER9961
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-10 02:17:49
+Product ID: PROD943
+User ID: USER2328
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-17 04:25:11
+Product ID: PROD329
+User ID: USER3540
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-14 07:09:37
+Product ID: PROD963
+User ID: USER7129
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-23 05:24:08
+Product ID: PROD126
+User ID: USER1443
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-14 21:12:34
+Product ID: PROD239
+User ID: USER2854
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-31 15:10:34
+Product ID: PROD255
+User ID: USER6766
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-14 00:22:42
+Product ID: PROD504
+User ID: USER2128
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-20 13:46:45
+Product ID: PROD757
+User ID: USER5592
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-25 02:35:15
+Product ID: PROD287
+User ID: USER3642
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-20 03:25:33
+Product ID: PROD743
+User ID: USER8830
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-10 21:50:46
+Product ID: PROD953
+User ID: USER8606
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-11 15:05:06
+Product ID: PROD457
+User ID: USER8843
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-08 21:13:44
+Product ID: PROD897
+User ID: USER6232
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-21 12:54:39
+Product ID: PROD983
+User ID: USER4997
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-29 22:57:12
+Product ID: PROD391
+User ID: USER3591
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-09 15:32:24
+Product ID: PROD138
+User ID: USER4207
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-13 22:52:05
+Product ID: PROD384
+User ID: USER8183
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-20 23:10:48
+Product ID: PROD978
+User ID: USER8378
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-15 17:45:15
+Product ID: PROD170
+User ID: USER9051
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-22 20:51:14
+Product ID: PROD616
+User ID: USER6647
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-21 06:38:52
+Product ID: PROD350
+User ID: USER8015
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-19 12:22:26
+Product ID: PROD711
+User ID: USER6889
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-21 03:16:47
+Product ID: PROD671
+User ID: USER9043
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-11 02:26:51
+Product ID: PROD918
+User ID: USER7178
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-24 13:15:11
+Product ID: PROD981
+User ID: USER4796
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-17 14:11:53
+Product ID: PROD219
+User ID: USER8649
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-09 07:38:35
+Product ID: PROD588
+User ID: USER7300
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-25 15:01:48
+Product ID: PROD168
+User ID: USER8847
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-10 00:27:30
+Product ID: PROD720
+User ID: USER5849
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-29 03:43:52
+Product ID: PROD553
+User ID: USER9274
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-31 18:46:32
+Product ID: PROD109
+User ID: USER7424
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-13 16:50:28
+Product ID: PROD709
+User ID: USER7974
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-28 18:36:17
+Product ID: PROD990
+User ID: USER4693
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-27 09:55:48
+Product ID: PROD538
+User ID: USER8778
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-18 18:51:29
+Product ID: PROD874
+User ID: USER5257
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-21 17:48:46
+Product ID: PROD242
+User ID: USER8174
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-26 11:30:21
+Product ID: PROD406
+User ID: USER1573
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-01 14:03:11
+Product ID: PROD986
+User ID: USER9035
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-10 07:49:00
+Product ID: PROD715
+User ID: USER1797
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-09 10:33:53
+Product ID: PROD298
+User ID: USER5789
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-14 19:59:05
+Product ID: PROD178
+User ID: USER4657
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-29 02:21:12
+Product ID: PROD698
+User ID: USER4877
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-18 00:22:18
+Product ID: PROD468
+User ID: USER2796
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-25 20:36:08
+Product ID: PROD186
+User ID: USER9875
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-26 20:50:14
+Product ID: PROD951
+User ID: USER4126
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-24 01:07:50
+Product ID: PROD964
+User ID: USER3041
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-19 08:06:02
+Product ID: PROD967
+User ID: USER4270
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-28 19:15:00
+Product ID: PROD717
+User ID: USER6717
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-21 10:19:29
+Product ID: PROD334
+User ID: USER9518
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-22 03:06:15
+Product ID: PROD439
+User ID: USER2629
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-10 19:17:47
+Product ID: PROD669
+User ID: USER8205
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-14 00:10:17
+Product ID: PROD760
+User ID: USER9686
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-20 20:54:01
+Product ID: PROD661
+User ID: USER5152
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-01 08:29:48
+Product ID: PROD295
+User ID: USER1155
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-27 08:05:59
+Product ID: PROD211
+User ID: USER8984
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-30 10:56:08
+Product ID: PROD522
+User ID: USER3304
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-18 08:18:24
+Product ID: PROD512
+User ID: USER8955
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-15 18:28:06
+Product ID: PROD585
+User ID: USER1188
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-11 03:03:01
+Product ID: PROD735
+User ID: USER1768
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-13 10:40:31
+Product ID: PROD554
+User ID: USER8405
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-13 10:41:16
+Product ID: PROD514
+User ID: USER6322
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-13 17:04:56
+Product ID: PROD847
+User ID: USER6154
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-29 14:24:56
+Product ID: PROD362
+User ID: USER5460
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-12 10:36:19
+Product ID: PROD629
+User ID: USER4307
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-19 10:14:37
+Product ID: PROD771
+User ID: USER7480
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-16 12:59:20
+Product ID: PROD419
+User ID: USER4164
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-24 22:21:20
+Product ID: PROD301
+User ID: USER8529
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-23 20:51:26
+Product ID: PROD669
+User ID: USER3319
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-07 01:42:14
+Product ID: PROD401
+User ID: USER6837
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-09 13:30:58
+Product ID: PROD898
+User ID: USER4003
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-21 23:04:26
+Product ID: PROD612
+User ID: USER4821
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-20 12:16:19
+Product ID: PROD866
+User ID: USER8684
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-25 15:53:30
+Product ID: PROD254
+User ID: USER4332
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-19 11:05:08
+Product ID: PROD477
+User ID: USER7255
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-01 23:22:30
+Product ID: PROD136
+User ID: USER8571
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-28 09:02:55
+Product ID: PROD904
+User ID: USER9496
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-18 01:49:28
+Product ID: PROD726
+User ID: USER8152
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-26 19:32:03
+Product ID: PROD610
+User ID: USER9610
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-04 13:04:20
+Product ID: PROD684
+User ID: USER5239
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-13 09:04:35
+Product ID: PROD355
+User ID: USER7857
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-08 14:08:55
+Product ID: PROD766
+User ID: USER1336
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-28 12:28:15
+Product ID: PROD360
+User ID: USER1790
+Rating: 5
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-04 05:45:55
+Product ID: PROD514
+User ID: USER6338
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-09 21:41:21
+Product ID: PROD658
+User ID: USER6008
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-29 15:52:36
+Product ID: PROD319
+User ID: USER6066
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-07 10:35:51
+Product ID: PROD422
+User ID: USER5227
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-06 14:28:39
+Product ID: PROD886
+User ID: USER4595
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-24 00:08:44
+Product ID: PROD619
+User ID: USER4318
+Rating: 5
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-24 15:59:46
+Product ID: PROD180
+User ID: USER8479
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-04 19:51:42
+Product ID: PROD253
+User ID: USER4358
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-11-29 16:42:17
+Product ID: PROD200
+User ID: USER8958
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-03 19:56:18
+Product ID: PROD447
+User ID: USER8997
+Rating: 1
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-20 07:20:26
+Product ID: PROD967
+User ID: USER8320
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-14 16:21:56
+Product ID: PROD642
+User ID: USER6456
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-31 19:38:12
+Product ID: PROD367
+User ID: USER1750
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-11 03:03:24
+Product ID: PROD109
+User ID: USER2470
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-19 13:56:19
+Product ID: PROD826
+User ID: USER8924
+Rating: 2
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-10 07:49:20
+Product ID: PROD301
+User ID: USER2043
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-02 09:45:36
+Product ID: PROD462
+User ID: USER5875
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-09 02:17:51
+Product ID: PROD946
+User ID: USER3537
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-07 08:14:42
+Product ID: PROD292
+User ID: USER2717
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-16 19:54:34
+Product ID: PROD543
+User ID: USER4764
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-08 19:59:41
+Product ID: PROD475
+User ID: USER5488
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-21 07:43:24
+Product ID: PROD689
+User ID: USER1255
+Rating: 1
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-19 18:52:46
+Product ID: PROD139
+User ID: USER5507
+Rating: 3
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-04 18:22:16
+Product ID: PROD447
+User ID: USER1949
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-26 18:39:44
+Product ID: PROD548
+User ID: USER9750
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-19 11:16:34
+Product ID: PROD106
+User ID: USER5172
+Rating: 4
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-26 08:19:08
+Product ID: PROD633
+User ID: USER1138
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-19 00:21:02
+Product ID: PROD468
+User ID: USER1823
+Rating: 1
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-19 00:35:54
+Product ID: PROD484
+User ID: USER4879
+Rating: 3
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-01 12:57:55
+Product ID: PROD916
+User ID: USER8548
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-10 14:35:30
+Product ID: PROD854
+User ID: USER3779
+Rating: 1
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-28 03:11:56
+Product ID: PROD514
+User ID: USER7913
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-08 17:14:55
+Product ID: PROD507
+User ID: USER4454
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-24 21:48:44
+Product ID: PROD679
+User ID: USER4079
+Rating: 5
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-06 16:18:20
+Product ID: PROD422
+User ID: USER4199
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-13 00:05:51
+Product ID: PROD432
+User ID: USER6027
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-12-21 02:58:41
+Product ID: PROD907
+User ID: USER3264
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-05 14:51:10
+Product ID: PROD465
+User ID: USER9313
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-13 00:11:03
+Product ID: PROD908
+User ID: USER2877
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-01-17 14:25:23
+Product ID: PROD333
+User ID: USER5854
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-01 21:28:02
+Product ID: PROD113
+User ID: USER9717
+Rating: 2
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-21 20:43:59
+Product ID: PROD174
+User ID: USER5517
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-06 10:30:29
+Product ID: PROD819
+User ID: USER6049
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-18 21:12:11
+Product ID: PROD426
+User ID: USER4389
+Rating: 3
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-14 22:11:36
+Product ID: PROD230
+User ID: USER3143
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-28 15:08:01
+Product ID: PROD370
+User ID: USER4315
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-06-03 18:11:06
+Product ID: PROD970
+User ID: USER5750
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-26 20:13:34
+Product ID: PROD901
+User ID: USER9857
+Rating: 2
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-05-31 12:33:24
+Product ID: PROD736
+User ID: USER4812
+Rating: 3
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-20 19:35:47
+Product ID: PROD196
+User ID: USER8698
+Rating: 3
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-06 01:30:26
+Product ID: PROD518
+User ID: USER2734
+Rating: 1
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-21 19:45:50
+Product ID: PROD705
+User ID: USER9681
+Rating: 5
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-11 10:56:00
+Product ID: PROD830
+User ID: USER6982
+Rating: 4
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-10-23 17:18:56
+Product ID: PROD196
+User ID: USER2302
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-09-25 20:26:11
+Product ID: PROD400
+User ID: USER2363
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2024-01-01 19:59:53
+Product ID: PROD380
+User ID: USER2321
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-08-23 13:43:52
+Product ID: PROD129
+User ID: USER1288
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-04-13 09:02:11
+Product ID: PROD608
+User ID: USER4795
+Rating: 2
+Review: Stopped working after a few days. Not recommended.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-02-23 12:48:34
+Product ID: PROD648
+User ID: USER3907
+Rating: 4
+Review: Build quality is poor, but functionality is decent.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-24 08:26:43
+Product ID: PROD988
+User ID: USER2554
+Rating: 5
+Review: Excellent customer service and a solid product.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-03-30 09:23:33
+Product ID: PROD560
+User ID: USER1131
+Rating: 2
+Review: Great product! Works as expected.
+-----------------------------------------
+Type: Product Review
+Timestamp: 2023-07-25 08:25:22
+Product ID: PROD192
+User ID: USER4616
+Rating: 4
+Review: Very satisfied with my purchase. Would buy again!
+-----------------------------------------
